@@ -24,7 +24,7 @@ Git (para clonar o repositório)
 
 Passo 1: Clonar e Acessar o Repositório
 # Clone este repositório para o seu ambiente local
-git clone <>
+git clone <https://github.com/Gmbferreira/minMaxSelect.git>
 
 Passo 2: Instalar Dependências
 O script de análise utiliza a biblioteca numpy para cálculos estatísticos. Instale-a com o seguinte comando:
@@ -122,7 +122,10 @@ Portanto, a recorrência se enquadra no Caso 1 do Teorema Mestre.
 
 4. Solução Assintótica:
 
-Pelo Caso 1, a solução é T(n) = \Theta(n^{\log_b(a)}).
+Pelo Caso 1, a solução é T(n)=
+Theta(n 
+log_b(a)
+ ).
 
 Substituindo o valor calculado, obtemos:
 $$ T(n) = \Theta(n^1) = \Theta(n) $$
